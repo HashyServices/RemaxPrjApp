@@ -1,0 +1,5 @@
+C:\Users\hashim\Desktop\RemaxWinApplication\RemaxWindowsApp\RemaxWindowsApp\obj\Debug\RemaxWindowsApp.csprojAssemblyReference.cache
+C:\Users\hashim\Desktop\RemaxWinApplication\RemaxWindowsApp\RemaxWindowsApp\obj\Debug\RemaxWindowsApp.Form1.resources
+C:\Users\hashim\Desktop\RemaxWinApplication\RemaxWindowsApp\RemaxWindowsApp\obj\Debug\RemaxWindowsApp.Properties.Resources.resources
+C:\Users\hashim\Desktop\RemaxWinApplication\RemaxWindowsApp\RemaxWindowsApp\obj\Debug\RemaxWindowsApp.csproj.GenerateResource.cache
+C:\Users\hashim\Desktop\RemaxWinApplication\RemaxWindowsApp\RemaxWindowsApp\obj\Debug\RemaxWindowsApp.csproj.CoreCompileInputs.cache
